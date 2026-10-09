@@ -67,6 +67,6 @@ An end-to-end supply chain analytics project using Python and Power BI to analyz
 
 ![Industry Dashboard](images/industry_supply_chain.png)
 
-![Logistics Dashboard](images/logistics_supply_chain.png)
+![Logistics Dashboard](images/logistic_supply_chain.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------
